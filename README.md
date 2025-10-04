@@ -1,2 +1,21 @@
-# SignifAI:French_sign_language_translation_based_on_deep_learning_and_LLM
-SignifAI is an AI-powered software that translates French Sign Language into spoken French. we propose to leverage a combination of SlowFast model for sign gesture recognition and large language models (LLM) for sentence generation from recognized words. 
+# SignifAI: French Sign Language Translation based on Deep Learning
+
+This project provides deep learning models and tools for French Sign Language (LSF/FSL) recognition and translation.
+
+## Features
+- Real-time and offline inference
+- Training and evaluation scripts
+- Configurable model architectures
+- Demo application (Gradio/Streamlit)
+
+## Quick Start
+```bash
+# Clone the repo
+git clone https://github.com/your-username/SignifAI-French-sign-language-translation-based-on-deep-learning
+cd SignifAI-French-sign-language-translation-based-on-deep-learning
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run demo
+python demo/gradio_app.py
