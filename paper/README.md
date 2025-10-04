@@ -9,7 +9,6 @@ DOI: [10.54254/2755-2721/95/20241748](https://doi.org/10.54254/2755-2721/95/2024
 
 📄 **Download the full paper (PDF):**  
 [📥 Click here to download the full paper (PDF)](paper/SignifAI_French_Sign_Language_Translation_CONF-CDS2024.pdf)
-
 ---
 
 ### 📚 Citation (BibTeX)
