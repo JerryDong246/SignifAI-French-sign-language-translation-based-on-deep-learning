@@ -8,9 +8,14 @@ In: *The 6th International Conference on Computing and Data Science (CONF-CDS 20
 DOI: [10.54254/2755-2721/95/20241748](https://doi.org/10.54254/2755-2721/95/20241748)
 
 📄 **Download the full paper (PDF):**  
-[SignifAI_French_Sign_Language_Translation_CONF-CDS2024.pdf](paper/SignifAI_French_Sign_Language_Translation_CONF-CDS2024.pdf)
+[📥 Click here to download the full paper (PDF)](paper/SignifAI_French_Sign_Language_Translation_CONF-CDS2024.pdf)
+
+---
 
 ### 📚 Citation (BibTeX)
+
+If you would like to reference this work in your research, please use the following BibTeX entry:
+
 ```bibtex
 @inproceedings{dong2024signifai,
   title     = {SignifAI: French sign language translation based on deep learning and large language models},
