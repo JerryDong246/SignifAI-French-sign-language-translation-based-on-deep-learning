@@ -1,3 +1,5 @@
+> 📄 This repository hosts the official implementation and publication for the paper *"SignifAI: French sign language translation based on deep learning and large language models"* (CONF-CDS 2024).
+
 ## 📄 Publication
 
 If you use this project or build upon our research, please cite the following paper:
