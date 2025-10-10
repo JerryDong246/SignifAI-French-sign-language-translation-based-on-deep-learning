@@ -34,3 +34,21 @@ pip install -r requirements.txt
 
 # Run demo
 python demo/gradio_app.py
+```
+
+--- 
+
+### 📚 Citation
+If you use this repository or dataset in your research, please cite:
+
+Jiarui Dong. "SignifAI: French Sign Language Translation Based on Deep Learning and Large Language Models."
+Proceedings of the 6th International Conference on Computing and Data Science, Vol. 95, EWA Publishing, 2024.
+
+DOI: [10.54254/2755-2721/95/20241748](https://doi.org/10.54254/2755-2721/95/20241748) 
+
+---
+
+### 🔗 Links 
+- 📄 [Paper DOI](https://doi.org/10.54254/2755-2721/95/20241748)
+- 💻 [GitHub Repository](https://github.com/JiaruiDong246/SignifAI-French-sign-language-translation-based-on-deep-learning)
+
