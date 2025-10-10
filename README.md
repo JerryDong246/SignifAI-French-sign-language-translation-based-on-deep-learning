@@ -50,5 +50,5 @@ DOI: [10.54254/2755-2721/95/20241748](https://doi.org/10.54254/2755-2721/95/2024
 
 ### 🔗 Links 
 - 📄 [Paper DOI](https://doi.org/10.54254/2755-2721/95/20241748)
-- 💻 [GitHub Repository](https://github.com/JiaruiDong246/SignifAI-French-sign-language-translation-based-on-deep-learning)
+- 💻 [GitHub Repository](https://github.com/JerryDong246/SignifAI-French-sign-language-translation-based-on-deep-learning)
 
