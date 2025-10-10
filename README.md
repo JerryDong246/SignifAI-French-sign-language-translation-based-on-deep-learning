@@ -1,3 +1,6 @@
+📘 This repository contains the official implementation of the paper:
+[SignifAI: French Sign Language Translation Based on Deep Learning and Large Language Models](https://doi.org/10.54254/2755-2721/95/20241748)
+
 # 🧠 SignifAI: French Sign Language Translation Based on Deep Learning and Large Language Models
 
 [![DOI](https://img.shields.io/badge/DOI-10.54254%2F2755--2721%2F95%2F20241748-blue)](https://doi.org/10.54254/2755-2721/95/20241748)
