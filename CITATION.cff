@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "SignifAI: French Sign Language Translation Based on Deep Learning and Large Language Models"
+authors:
+  - family-names: Dong
+    given-names: Jiarui
+affiliations:
+  - name: École Jeannine Manuel, Paris
+abstract: >
+  SignifAI is a research project exploring real-time French Sign Language (LSF/FSL)
+  recognition and translation using deep learning and large language models. It bridges
+  the gap between accessibility and technology through multimodal AI, combining vision
+  and linguistic understanding.
+date-released: 25-10-2024
+doi: 10.54254/2755-2721/95/20241748
+version: 1.0
+url: "https://github.com/JerryDong246/SignifAI-French-sign-language-translation-based-on-deep-learning"
+repository-code: "https://github.com/JerryDong246/SignifAI-French-sign-language-translation-based-on-deep-learning"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "SignifAI: French Sign Language Translation Based on Deep Learning and Large Language Models"
+  authors:
+    - family-names: Dong
+      given-names: Jiarui
+  conference:
+    name: "6th International Conference on Computing and Data Science (ICCDS 2024)"
+  collection-title: "Applied and Computational Engineering"
+  volume: 95
+  year: 2024
+  doi: 10.54254/2755-2721/95/20241748
+  publisher: "EWA Publishing"
