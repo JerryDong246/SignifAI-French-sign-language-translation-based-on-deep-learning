@@ -1,7 +1,7 @@
-📘 This repository contains the official implementation of the paper:
-[SignifAI: French Sign Language Translation Based on Deep Learning and Large Language Models](https://doi.org/10.54254/2755-2721/95/20241748)
+📘 This repository contains the official implementation of the paper:  
+[**SignifAI: French Sign Language Translation Based on Deep Learning and Large Language Models**](https://doi.org/10.54254/2755-2721/95/20241748)
 
-# 🧠 SignifAI: French Sign Language Translation Based on Deep Learning and Large Language Models
+# 🤟 SignifAI: French Sign Language Translation Based on Deep Learning and Large Language Models
 
 [![DOI](https://img.shields.io/badge/DOI-10.54254%2F2755--2721%2F95%2F20241748-blue)](https://doi.org/10.54254/2755-2721/95/20241748)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -10,16 +10,16 @@
 ---
 
 ### 🧩 Overview
-**SignifAI** is a research project exploring real-time French Sign Language (LSF/FSL) recognition and translation using deep learning and large language models.  
-It aims to bridge the gap between accessibility and technology through multimodal AI, combining vision and linguistic understanding.
+**SignifAI** is an engineering-driven research project that translates French Sign Language (LSF/FSL) into French text and speech using deep learning and large language models.  
+It bridges accessibility and technology through multimodal AI — combining gesture recognition and linguistic modeling.
 
 ---
 
 ### ✨ Features
 - 🎥 Real-time and offline inference  
-- 🧠 Training and evaluation scripts  
+- 🧩 Training and evaluation scripts  
 - ⚙️ Configurable model architectures (CNN, LSTM, Transformer)  
-- 💬 Demo web application (Gradio / Streamlit)  
+- 💬 Demo web interface (Gradio / Streamlit)
 
 ---
 
